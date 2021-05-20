@@ -1,0 +1,13 @@
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\keyla\OneDrive\Documentos\PROGRAMACION 1\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
